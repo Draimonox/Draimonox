@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Adam
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Draimonox&theme=dark)
 
 
