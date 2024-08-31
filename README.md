@@ -1,5 +1,5 @@
 ## Hi there, I'm Adam
-                                             [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=draimonox&theme=tokyonight-duo&border_radius=50)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=draimonox&theme=tokyonight-duo&border_radius=50)](https://git.io/streak-stats)
 
 
 <!--
