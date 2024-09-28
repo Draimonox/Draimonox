@@ -4,8 +4,17 @@ I love building cool projects with TypeScript. I'm always down to meet fellow te
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=draimonox&theme=tokyonight-duo&border_radius=45)](https://git.io/streak-stats)
 
+
+
+### Front-end:
+![HTML](https://img.icons8.com/color/50/000000/html-5.png) 
+![CSS](https://img.icons8.com/color/50/000000/css3.png) 
+![JavaScript](https://img.icons8.com/color/50/000000/javascript.png) 
+![TypeScript](https://img.icons8.com/color/50/000000/typescript.png) 
+
+
 ### Back-end:
-![Node.js](https://img.icons8.com/color/50/000000/nodejs.png) ![TypeScript](https://img.icons8.com/color/50/000000/typescript.png) ![Next.js](https://img.icons8.com/color/50/000000/nextjs.png) ![Prisma](https://img.icons8.com/?size=50&id=YKKmRFS8Utmm&format=png&color=000000)
+![Node.js](https://img.icons8.com/color/50/000000/nodejs.png) ![TypeScript](https://img.icons8.com/color/50/000000/typescript.png) ![Next.js](https://img.icons8.com/color/50/000000/nextjs.png) ![Prisma](https://img.icons8.com/?size=50&id=YKKmRFS8Utmm&format=png&color=000000) ![Lua](https://img.icons8.com/color/50/000000/lua.png)
 
 ### Databases:
 ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png) ![Firebase](https://img.icons8.com/color/50/000000/firebase.png) ![Solidity](https://img.icons8.com/color/50/000000/solidity.png)
