@@ -11,6 +11,7 @@ I love building cool projects with TypeScript. I'm always down to meet fellow te
 ![CSS](https://img.icons8.com/color/50/000000/css3.png) 
 ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png) 
 ![TypeScript](https://img.icons8.com/color/50/000000/typescript.png) 
+![React](https://img.icons8.com/?size=50&id=Nlsua06Gvxel&format=png&color=000000)
 
 
 ### Back-end:
