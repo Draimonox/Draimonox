@@ -14,7 +14,7 @@ I love building cool projects with TypeScript. I'm always down to meet fellow te
 
 
 ### Back-end:
-![Node.js](https://img.icons8.com/color/50/000000/nodejs.png) ![TypeScript](https://img.icons8.com/color/50/000000/typescript.png) ![Next.js](https://img.icons8.com/color/50/000000/nextjs.png) ![Prisma](https://img.icons8.com/?size=50&id=YKKmRFS8Utmm&format=png&color=000000) ![Lua](https://img.icons8.com/?size=50&id=KppI8aNv6oQe&format=png&color=000000)
+![Node.js](https://img.icons8.com/color/50/000000/nodejs.png) ![TypeScript](https://img.icons8.com/color/50/000000/typescript.png) ![Next.js](https://img.icons8.com/color/50/000000/nextjs.png) ![Prisma](https://img.icons8.com/?size=50&id=YKKmRFS8Utmm&format=png&color=000000) ![Lua](https://img.icons8.com/?size=75&id=KppI8aNv6oQe&format=png&color=000000)
 
 ### Databases:
 ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png) ![Firebase](https://img.icons8.com/color/50/000000/firebase.png) ![Solidity](https://img.icons8.com/color/50/000000/solidity.png)
