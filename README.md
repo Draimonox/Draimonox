@@ -5,16 +5,16 @@ I love building cool projects with TypeScript. I'm always down to meet fellow te
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=draimonox&theme=tokyonight-duo&border_radius=45)](https://git.io/streak-stats)
 
 ### Back-end:
-- Node.js
-- TypeScript
-- Next.js
-- Prisma
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript  
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js  
+![Prisma](https://img.icons8.com/color/48/000000/prisma.png) Prisma  
 
 ### Databases:
-- PostgreSQL
-- MongoDB
-- Firebase
-- Solidity
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL  
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase  
+![Solidity](https://img.icons8.com/color/48/000000/solidity.png) Solidity  
 
 ---
 <!--
