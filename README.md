@@ -1,6 +1,6 @@
 # I am Adam, a Software Engineer! 🚀
 
-I love building cool projects with TypeScript. I'm always down to meet fellow techies. Let's connect on [LinkedIn](https://www.linkedin.com/in/adam-attalla-02637313b/)!
+I love building cool projects. Let's connect on [LinkedIn](https://www.linkedin.com/in/adam-attalla-02637313b/)!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=draimonox&theme=tokyonight-duo&border_radius=50)](https://git.io/streak-stats)
 
