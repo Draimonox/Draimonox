@@ -1,7 +1,7 @@
 # I am Adam, a Software Engineer! 🚀
 
 I love building cool projects. Let's connect on [LinkedIn](https://www.linkedin.com/in/adam-attalla-02637313b/)!
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=draimonox&theme=dark&borderradius=45)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=draimonox&theme=tokyonight-duo&borderradius=45)](https://git.io/streak-stats)
 
 
 
