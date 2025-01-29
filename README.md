@@ -1,6 +1,6 @@
 # I am Adam, a Software Engineer! 🚀
 
-I love building cool projects. Let's connect on [LinkedIn](https://www.linkedin.com/in/adam-attalla-02637313b/)!
+I'm all about coding up a storm and having a blast doing it! This GitHub is where I turn my crazy ideas into real things. If you want to talk shop or just want to chat, hit me up on [LinkedIn](https://www.linkedin.com/in/adam-attalla-02637313b/)!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=draimonox&theme=tokyonight&border_radius=50)](https://git.io/streak-stats)
 
