@@ -6,7 +6,6 @@ I love building cool projects. Let's connect on [LinkedIn](https://www.linkedin.
 
 
 
-
 ### Front-end:
 ![HTML](https://img.icons8.com/color/50/000000/html-5.png) 
 ![CSS](https://img.icons8.com/color/50/000000/css3.png) 
